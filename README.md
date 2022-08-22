@@ -1,1 +1,1 @@
-# CKR
+# Carleman-Krylov Reachability (CKR)

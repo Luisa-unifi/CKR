@@ -1,6 +1,5 @@
 from __future__ import division
 # -*- coding: utf-8 -*-
-
 '''
 Python implementation of CKR, an algorithm to compute globally accurate linear 
 approximations for the solution of systems of nonlinear Ordinary Differential 

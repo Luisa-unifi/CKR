@@ -1,5 +1,6 @@
 function range = enc(CV,Delta)
 % matlab script associated with the python file CKR.py.
+
 params.tFinal = Delta;
 R0 = zonotope(interval(CV(:,1),CV(:,2)));
 % settings
